@@ -1,0 +1,1 @@
+NOTE: Download arm tool chain with pkg format from ARM website and add the bin folder path to PATH variable
